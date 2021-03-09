@@ -1,0 +1,14 @@
+[{
+"modid": "jamm",
+"name": "Just Another Machine Mod",
+"description": "A mod that adds machines",
+"version": "${version}",
+"mcversion": "${mcversion}",
+"url": "",
+"updateUrl": "",
+"authorList": ["IminhaK"],
+"credits": "The Forge and FML guys for making this possible at all."
+"logoFile": "",
+"screenshots": [],
+"dependencies": []
+}]
