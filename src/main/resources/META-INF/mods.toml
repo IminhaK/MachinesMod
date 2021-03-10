@@ -2,21 +2,21 @@
     modLoader="javafml"
     # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
     # Forge for 1.16.3 is version 34
-    loaderVersion="[34,)"
+    loaderVersion="[35,)"
+    # The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+    # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default in the Forge MDK.
+    license="GNU Lesser General Public License"
     # A URL to refer people to when problems occur with this mod
-    issueTrackerURL="github.com/bloop428/MachinesMod/issues"
+    issueTrackerURL="https://github.com/bloop428/MachinesMod/issues"
     # If the mods defined in this file should show as seperate resource packs
     showAsResourcePack=false
 
     [[mods]]
       modId="jamm"
-      version="1.0"
+      version="${file.jarVersion}"
       displayName="Just Another Machine Mod"
-      updateJSONURL=""
-      displayURL=""
+      displayURL="https://github.com/bloop428/MachinesMod/"
       logoFile=""
-      credits=""
       authors="IminhaK"
       description='''
-      A mod that adds machines.
-      '''
+      A mod that adds machines.'''

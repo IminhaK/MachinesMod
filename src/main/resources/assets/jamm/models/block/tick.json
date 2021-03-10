@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "jamm:block/tick",
+    "down": "jamm:block/tick",
+    "north": "jamm:block/tick",
+    "south": "jamm:block/tick",
+    "east": "jamm:block/tick",
+    "west": "jamm:block/tick",
+    "particle": "jamm:block/tick"
+  }
+}
